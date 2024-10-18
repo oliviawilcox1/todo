@@ -37,13 +37,13 @@ const GREY = {
     darker: '#7A0C2E',
   };
   
-  const WARNING = {
-    lighter: '#FFF7CD',
-    light: '#FFE16A',
-    main: '#FFC107',
-    dark: '#B78103',
-    darker: '#7A4F01',
-  }
+  // const WARNING = {
+  //   lighter: '#FFF7CD',
+  //   light: '#FFE16A',
+  //   main: '#FFC107',
+  //   dark: '#B78103',
+  //   darker: '#7A4F01',
+  // }
   
   const palette = {
     common: { black: '#000', white: '#fff' },
